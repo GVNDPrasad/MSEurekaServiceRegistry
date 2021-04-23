@@ -15,7 +15,7 @@ public class EurekaServiceRegistryApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaServiceRegistryApplication.class, args);
 		log.info("Started Eureka Server");
-		System.out.println("EurekaServiceRegiStarted Eureka ServerstryApplication :: main() ::: Started Eureka Server");
+		System.out.println("EurekaService RegiStartered Eureka ServerstryApplication :: main() ::: Started Eureka Server");
 		System.out.println("Eureka Dashboard URL: http://localhost:8761/");
 	}
 
